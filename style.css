@@ -193,6 +193,7 @@ section{
     .hero-img img{
         width: 80%;
         margin: 10% 0 0 10%;
+        width: 418px;
     }
 
     .hero-text p{
@@ -224,13 +225,13 @@ section{
 
     .hero-img img{
         margin: 0;
-        margin-left: 53%;
+        margin-left: 47%;
         margin-bottom: 80%;
         text-align: center;
     }
 
     .hero-img img:hover{
-        width: 300px;
+        width: 240px;
     }
 
 
